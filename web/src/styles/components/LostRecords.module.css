@@ -1,0 +1,131 @@
+.lostRecordsContainer {
+    width: 47.5rem;
+    height: 100%;
+
+    display: block;
+    overflow: hidden;
+}
+
+.lostRecordsHeader {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    background: var(--text);
+
+    width: 100%;
+    height: 99.05%;
+    margin: 0.25rem;
+
+    border-radius: 0.15rem;
+}
+
+.lostRecordsHeader img {
+    width: 4rem;
+    height: 4rem;
+
+    margin-left: 0.55rem;
+    cursor: pointer;
+}
+
+.lostRecordsHeader button {
+    background: var(--background);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-family: "Overlock", cursive;
+    font-weight: 400;
+    font-size: 2rem;
+    color: var(--text);
+
+    width: 35rem;
+    height: 3.85rem;
+
+    margin-top: 0.75rem;
+
+    border-radius: 0.5rem;
+    outline: none;
+    transition: color 1s;
+}
+
+.lostRecordsHeader button:hover {
+    color: var(--hover);
+}
+
+.lostRecordsList {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+
+    background: #d3d3d3;
+    padding-left: 0.75rem;
+
+    width: 42.5rem;
+    height: 2.75rem;
+
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+    font-size:1.25rem;
+
+    border-right: 0.5px solid var(--top_background);
+    border-left: 0.5px solid var(--top_background);
+    border-radius: 0.5rem;
+
+    margin-top: 1.5rem;
+}
+
+.lostRecordsList span{
+    color: var(--background);
+}
+
+.descriptionField {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+
+    background: #d3d3d3;
+    padding-left: 0.75rem;
+
+    width: 42.5rem;
+    height: 6.5rem;
+
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+    font-size:1.25rem;
+
+    border-right: 0.5px solid var(--top_background);
+    border-left: 0.5px solid var(--top_background);
+    border-radius: 0.5rem;
+
+    margin-top: 0.5rem;
+}
+
+.lostRecordsListAlt {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+
+    background: #d3d3d3;
+    padding-left: 0.75rem;
+
+    width: 42.5rem;
+    height: 2.75rem;
+
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+    font-size:1.25rem;
+
+    border-right: 0.5px solid var(--top_background);
+    border-left: 0.5px solid var(--top_background);
+    border-radius: 0.5rem;
+
+    margin-top: 0.5rem;
+}
+
+.listDivisor {
+    background: var(--background);
+    width: 100%;
+    height: 2px;
+}

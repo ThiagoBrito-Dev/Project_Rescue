@@ -1,0 +1,34 @@
+.container {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.container img {
+    width: 100%;
+    height: 28rem;
+}
+
+.container div {
+    font-family: 'Overlock', cursive;
+    font-weight: 700;
+    font-style: italic;
+    font-size: 2.8rem;
+
+    display: flex;
+    align-items: center;
+
+    margin-bottom: 0.3rem;
+    width: 18.9rem;
+    height: 3.5rem;
+
+    position: absolute;
+    bottom: 0;
+
+    padding: 1rem;
+
+    color: var(--title);
+    background: rgba(28, 28, 28, 0.75);
+    border-radius: 0.5rem;
+}

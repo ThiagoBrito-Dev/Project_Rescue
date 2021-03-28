@@ -1,0 +1,11 @@
+.occurrencesContainer {
+  background: var(--background);
+  height: 100vh;  
+}
+
+.occurrencesContainer section {
+    flex: 1;
+    display: grid;
+    grid-template-columns: 2.5fr 1.5fr;
+    align-content: center;
+}

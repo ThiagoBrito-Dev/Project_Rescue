@@ -1,0 +1,11 @@
+.mapContainer {
+    background: var(--background);
+    height: 100vh;
+}
+
+.mapContainer section {
+    flex: 1;
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    align-content: center;
+}

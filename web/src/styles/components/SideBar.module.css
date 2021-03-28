@@ -1,0 +1,113 @@
+.container {
+  background: var(--top_background);
+  width: 25rem;
+  height: 100%;
+}
+
+.sideBarContainer {
+  background: var(--top_background);
+
+  display: block;
+
+  height: 92.8vh;
+  width: 100%;
+}
+
+.sideBarFirstItem {
+  display: flex;
+  align-items: center;
+  padding-left: 1rem;
+  padding-top: 2rem;
+}
+
+.sideBarSecondItem {
+  display: flex;
+  align-items: center;
+  padding-left: 1.1rem;
+  padding-top: 1rem;
+}
+
+.sideBarThirdItem {
+  display: flex;
+  align-items: center;
+  padding-left: 1.05rem;
+  padding-top: 1rem;
+}
+
+.sideBarFourthItem {
+  display: flex;
+  align-items: center;
+  padding-left: 1.3rem;
+  padding-top: 1rem;
+}
+
+.sideBarFirstImage {
+  width: 3.5rem;
+  height: 3.5rem;
+  cursor: pointer;
+}
+
+.sideBarSecondImage {
+  width: 3.2rem;
+  cursor: pointer;
+}
+
+.sideBarThirdImage {
+  width: 3.27rem;
+  height: 3.75rem;
+  cursor: pointer;
+}
+
+.sideBarFourthImage {
+  width: 3rem;
+  height: 3.2rem;
+  cursor: pointer;
+}
+
+.sideBarFirstOption {
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 1.8rem;
+  margin-left: 1rem;
+  transition: color 1s;
+}
+
+.sideBarFirstOption:hover {
+  color: var(--hover);
+}
+
+.sideBarSecondOption {
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 1.8rem;
+  margin-left: 1.2rem;
+  transition: color 1s;
+}
+
+.sideBarSecondOption:hover {
+  color: var(--hover);
+}
+
+.sideBarThirdOption {
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 1.8rem;
+  margin-left: 1.2rem;
+  transition: color 1s;
+}
+
+.sideBarThirdOption:hover {
+  color: var(--hover);
+}
+
+.sideBarFourthOption {
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 1.8rem;
+  margin-left: 1.3rem;
+  transition: color 1s;
+}
+
+.sideBarFourthOption:hover {
+  color: var(--hover);
+}

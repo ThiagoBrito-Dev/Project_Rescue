@@ -1,0 +1,55 @@
+.container {
+  background-color: var(--top_background);
+}
+
+.container nav {
+  overflow: hidden;
+}
+
+.unorderedList {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 16rem;
+}
+
+.unorderedList li {
+  display: inline-block;
+  margin-top: 1.1rem;
+}
+
+.unorderedList button {
+  background-color: transparent;
+
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 2.2rem;
+
+  color: var(--title);
+  transition: color 1s;
+  outline: none;
+}
+
+.unorderedList button:hover {
+  color: var(--hover);
+}
+
+.unorderedList span {
+  font-family: "Inter", sans-serif;
+  font-weight: 500;
+  font-size: 3rem;
+  color: var(--logo_title);
+}
+
+.unorderedList span img {
+  width: 2.8rem;
+  height: 3.2rem;
+  margin: 0 0.5rem 0 0.5rem;
+  cursor: pointer;
+}
+
+.container::after {
+  content: '';
+  height: 2px;
+  background-color: var(--title);
+  display: block;
+}

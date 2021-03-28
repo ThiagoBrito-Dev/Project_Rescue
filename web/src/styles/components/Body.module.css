@@ -1,0 +1,30 @@
+.container p {
+    margin-left: 1rem;
+    margin-top: 2rem;
+
+    font-family: "Overlock", cursive;
+    font-weight: 400;
+    font-size: 2rem;
+}
+
+.container img {
+    margin-left: 6rem;
+    margin-top: 2rem;
+
+    width: 70rem;
+    border-radius: 1.5%;
+}
+
+.container p:last-child {
+    text-align: center;
+    justify-content: center;
+
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+
+    font-family: "Overlock", cursive;
+    font-weight: 700;
+    font-size: 3.25rem;
+
+    color: var(--title);
+}
