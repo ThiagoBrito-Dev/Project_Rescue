@@ -4,26 +4,24 @@
     <img src="./assets/banner.png">
 </div>
 
-<p align="center"> 
+<h3 align="center"> 
     Aplicação React/NodeJS para a criação e visualização de registros de animais perdidos e/ou encontrados.
-</p>
-
-<br/>
+</h3>
 
 <p align="center">
     <a href="#-sobre">Sobre</a> •
     <a href="#-status-do-projeto">Status do Projeto</a> • 
     <a href="#-features">Features</a> • 
     <a href="#-pré-requisitos">Pré-requisitos</a> • 
-    <a href="#-tecnologias-utilizadas">Tecnologias</a> • 
+    <a href="#-tecnologias-utilizadas">Tecnologias utilizadas</a> • 
     <a href="#-autor">Autor</a> •
     <a href="#-readme-versions">README versions</a>
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/static/v1?label=LICENSE&message=MIT&color=EF8F00&style=for-the-badge" />
-    <img src="https://img.shields.io/static/v1?label=yarn&message=v1.22.5&color=EF8F00&style=for-the-badge" />
-    <img src="https://img.shields.io/static/v1?label=dependencies&message=up-to-date&color=EF8F00&style=for-the-badge&logo" />
+    <img src="https://img.shields.io/static/v1?label=LICENSE&message=MIT&color=00FFA3&style=for-the-badge" />
+    <img src="https://img.shields.io/static/v1?label=yarn&message=v1.22.5&color=00FFA3&style=for-the-badge" />
+    <img src="https://img.shields.io/static/v1?label=dependencies&message=up-to-date&color=00FFA3&style=for-the-badge&logo" />
 </p>
 
 <br/>
@@ -68,7 +66,7 @@ O editor fica por sua escolha, claro, muito embora eu recomende fortemente o [VS
 
 Bom, tendo tudo instalado e pronto, podemos dar sequência:
 
-### :octocat: Faça o clone do projeto
+### :octocat: Clonando o projeto
 ```bash
 # Clone o repositório do projeto
 $ git clone <https://github.com/ThiagoBrito-Dev/Project_Rescue>
@@ -145,7 +143,7 @@ $ yarn start
 ### 📚 README versions
 
 <p>
-    <a href="">Portuguese (pt-br)</a>
+    <a href="https://github.com/ThiagoBrito-Dev/Project_Rescue/blob/main/README.md">Portuguese (pt-br)</a>
     |
     <a href="">English (en-us)</a>
 </p>
