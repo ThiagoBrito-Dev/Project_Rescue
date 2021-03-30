@@ -5,7 +5,7 @@
 </div>
 
 <h3 align="center">
-    React/NodeJS application to creating and viewing records of lost and/or found animals.
+    React/NodeJS application based on the use of the Leaflet tool, that is, a JavaScript geolocation library, for creating and viewing records of animals found and/or abandoned.
 </h3>
 
 <p align="center">
