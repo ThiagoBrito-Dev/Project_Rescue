@@ -28,7 +28,7 @@
 
 ### 🎯 Sobre
 
-Possuindo como foco principal a luta pela redução do número de animais abandonados no Brasil, o Project Rescue busca, através de uma aplicação de registros, de amplo acesso, de animais encontrados e/ou perdidos, unificar a tecnologia à esta causa, potencializando-a, por consequência, e agregando valor a ela.
+Possuindo como foco principal a luta pela redução do número de animais abandonados no Brasil, a aplicação Project Rescue busca, através da criação e visualização de registros, de amplo acesso, de animais encontrados e/ou abandonados, unificar a tecnologia à esta causa.
 
 <hr />
 
@@ -51,18 +51,17 @@ Possuindo como foco principal a luta pela redução do número de animais abando
 - [x] Obter os dados latitudinais e longitudinais do ponto do mapa em que o usuário clicou e utilizá-los como base para o posicionamento do marcador;
 - [x] Realizar o compartilhamento dos dados posicionais (latitude e longitude) entre o mapa e o formulário de cadastro de registros;
 - [X] Realizar a inserção dos dados de registro no banco de dados;
-- [ ] Obter, do banco de dados, as informações de todos os marcadores de registros feitos e exibi-los no mapa; e
-- [ ] Exibir os registros, separados pelo estatus de registro do animal, isto é, desaparecido ou encontrado, para o usuário;
+- [X] Exibir os registros, separados pelo estatus de registro do animal, isto é, desaparecido ou encontrado, para o usuário;
+- [ ] Implementar a responsividade da aplicação; e
+- [ ] Obter, do banco de dados, as informações de todos os marcadores de registros cadastrados e exibi-los no mapa.
 
 <hr />
 
 ### ✅ Pré-requisitos
 
-Hey Dev, antes de começar você precisará realizar a instalação das seguintes ferramentas:
+Hey Dev, antes de começar você precisará realizar a instalação de duas ferramentas, o [GIT](https://git-scm.com) e o [Node.js](https://nodejs.org/en/). 
 
-- [GIT](https://git-scm.com) e [Node.js](https://nodejs.org/en/).
-
-O editor fica por sua escolha, claro, muito embora eu recomende fortemente o [VSCode](https://code.visualstudio.com/).
+Além, é claro, de um bom editor de código à sua escolha, muito embora eu recomende fortemente o [VSCode](https://code.visualstudio.com/).
 
 Bom, tendo tudo instalado e pronto, podemos dar sequência:
 
@@ -75,7 +74,7 @@ $ git clone <https://github.com/ThiagoBrito-Dev/Project_Rescue>
 $ cd Project_Rescue
 ```
 
-### ⚙️ Rodando o Back-end
+### ⚙️ Rodando o back-end
 
 ```bash
 # Acesse a pasta do servidor, onde a mágica do back-end acontece
@@ -90,10 +89,10 @@ $ yarn dev
 # E por fim, acesse o servidor local na porta 3000, isto é, <http://localhost:3000>
 ```
 
-### 🖥️ Rodando o Front-end
+### 🖥️ Rodando o front-end
 
 ```bash
-# Vá para o local onde a mágica acontece
+# Vá para onde a mágica acontece
 $ cd web
 
 # Instale as dependências que se encontram no arquivo package.json
@@ -145,6 +144,5 @@ $ yarn start
 <p>
     <a href="https://github.com/ThiagoBrito-Dev/Project_Rescue/blob/main/README.md">Portuguese (pt-br)</a>
     |
-    <a href="">English (en-us)</a>
+    <a href="https://github.com/ThiagoBrito-Dev/Project_Rescue/blob/main/README-en.md">English (en-us)</a>
 </p>
-
