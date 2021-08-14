@@ -118,11 +118,11 @@ $ yarn start
 ### 🎓 Autores
 
 <div align="center">
-    <img src="https://github.com/ThiagoBrito-Dev.png" width="275px" style="border-radius: 50%">
+    <img src="https://github.com/ThiagoBrito-Dev.png" width="275px">
     <h3 align="center">🤝 <a href="https://github.com/ThiagoBrito-Dev">Thiago Raniery Brito (Front-end)</a></h3>
 </div>
 <div align="center">
-    <img src="https://github.com/leandro-hd.png" width="275px" style="border-radius: 50%">
+    <img src="https://github.com/leandro-hd.png" width="275px">
     <h3 align="center">🤝 <a href="https://github.com/leandro-hd">Leandro Higa Dias (Back-end)</a></h3>
 </div>
 
