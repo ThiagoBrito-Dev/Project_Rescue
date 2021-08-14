@@ -51,8 +51,8 @@ Possuindo como foco principal a luta pela redução do número de animais abando
 - [x] Obter os dados latitudinais e longitudinais do ponto do mapa em que o usuário clicou e utilizá-los como base para o posicionamento do marcador;
 - [x] Realizar o compartilhamento dos dados posicionais (latitude e longitude) entre o mapa e o formulário de cadastro de registros;
 - [ ] Realizar a inserção dos dados de registro no banco de dados;
-- [ ] Exibir os registros, separados pelo status de registro do animal, isto é, desaparecido ou encontrado, para o usuário;
-- [ ] Implementar a responsividade da aplicação; e
+- [ ] Exibir os registros, separados pelo status de registro do animal, isto é, desaparecido ou encontrado, para o usuário; e
+- [ ] Implementar a responsividade da aplicação;
 
 <hr />
 
