@@ -117,14 +117,14 @@ $ yarn start
 
 ### 🎓 Autores
 
-<div style="display: flex; justify-content: center; gap: 16px">
+<div style="display: flex;">
     <div>
         <img src="https://github.com/ThiagoBrito-Dev.png" width="275px" style="border-radius: 4px">
-        <h3 align="center"><a href="https://github.com/ThiagoBrito-Dev">🤝 Thiago Raniery Brito (Front-end)</a></h3>
+        <h3 align="center">🤝 <a href="https://github.com/ThiagoBrito-Dev">Thiago Raniery Brito (Front-end)</a></h3>
     </div>
     <div>
         <img src="https://github.com/leandro-hd.png" width="275px" style="border-radius: 4px">
-        <h3 align="center"><a href="https://github.com/leandro-hd">🤝 Leandro Higa Dias (Back-end)</a></h3>
+        <h3 align="center">🤝 <a href="https://github.com/leandro-hd">Leandro Higa Dias (Back-end)</a></h3>
     </div>
 </div>
 
