@@ -51,8 +51,8 @@ Having as main focus the fight for the reduction of the number of abandoned anim
 - [x] Obtain the latitudinal and longitudinal data of the point on the map that the user clicked on and use them as a basis for positioning the marker;
 - [x] Share positional data (latitude and longitude) between the map and the registration form;
 - [ ] Perform registration data insertion in the database;
-- [ ] Display the records, separated by the animal's registration status, that is, disappeared or found, for the user;
-- [ ] Implement application reponsivity; and
+- [ ] Display the records, separated by the animal's registration status, that is, disappeared or found, for the user; and
+- [ ] Implement application reponsivity;
 
 <hr />
 
