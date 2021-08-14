@@ -14,7 +14,7 @@
     <a href="#-features">Features</a> • 
     <a href="#-prerequisites">Prerequisites</a> • 
     <a href="#-applied-technologies">Applied technologies</a> • 
-    <a href="#-author">Author</a> •
+    <a href="#-authors">Authors</a> •
     <a href="#-readme-versions">README versions</a>
 </p>
 
@@ -50,10 +50,9 @@ Having as main focus the fight for the reduction of the number of abandoned anim
 - [X] Configure the map marker, adding your design and default pop-up message positions;
 - [x] Obtain the latitudinal and longitudinal data of the point on the map that the user clicked on and use them as a basis for positioning the marker;
 - [x] Share positional data (latitude and longitude) between the map and the registration form;
-- [X] Perform registration data insertion in the database;
-- [X] Display the records, separated by the animal's registration status, that is, disappeared or found, for the user;
+- [ ] Perform registration data insertion in the database;
+- [ ] Display the records, separated by the animal's registration status, that is, disappeared or found, for the user;
 - [ ] Implement application reponsivity; and
-- [ ] Obter, do banco de dados, as informações de todos os marcadores de registros cadastrados e exibi-los no mapa.
 
 <hr />
 
@@ -116,25 +115,17 @@ $ yarn start
 
 <hr />
 
-### 🎓 Author
+### 🎓 Authors
 
-<div align="center">
-    <img src="https://avatars.githubusercontent.com/u/71851038?s=460&u=045ad8499de94cfde24135d2453d7ffc1d72ebda&v=4" width="350px">
-</div>
-
-<h3 align="center">🤝 Thiago Raniery Brito</h3>
-
-<h4 align="center">Hey Dev, did you like the application? Well, if you want, feel free to get in touch with me for here or through the tags below.</h4>
-
-<br/>
-
-<div align="center">
-    <a href="https://www.linkedin.com/in/thiagoranierybrito/">
-        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagoranierybrito/">
-    </a>
-    <a href="mailto:thiagobritotrs@gmail.com">
-        <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagobritotrs@gmail.com">
-    </a>
+<div style="display: flex; justify-content: center; gap: 16px">
+    <div>
+        <img src="https://github.com/ThiagoBrito-Dev.png" width="275px" style="border-radius: 4px">
+        <h3 align="center"><a href="https://github.com/ThiagoBrito-Dev">🤝 Thiago Raniery Brito (Front-end)</a></h3>
+    </div>
+    <div>
+        <img src="https://github.com/leandro-hd.png" width="275px" style="border-radius: 4px">
+        <h3 align="center"><a href="https://github.com/leandro-hd">🤝 Leandro Higa Dias (Back-end)</a></h3>
+    </div>
 </div>
 
 <hr>
