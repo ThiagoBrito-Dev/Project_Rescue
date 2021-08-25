@@ -33,6 +33,7 @@ Having as main focus the fight for the reduction of the number of abandoned anim
 <hr />
 
 ### 🏁 Status
+
 <h3 align="center">
 	🚧 Project Rescue 🕹️  In progress...  🚧
 </h3>
@@ -41,13 +42,13 @@ Having as main focus the fight for the reduction of the number of abandoned anim
 
 ### 🏆 Features
 
-- [X] Create the global styles of the application;
-- [X] Implement the top navigation bar component;
-- [X] Add the side navigation bar component;
-- [X] Implement map component;
-- [X] Add the records registration form component;
-- [X] Add to the application the components of displaying records of found and lost animals;
-- [X] Configure the map marker, adding your design and default pop-up message positions;
+- [x] Create the global styles of the application;
+- [x] Implement the top navigation bar component;
+- [x] Add the side navigation bar component;
+- [x] Implement map component;
+- [x] Add the records registration form component;
+- [x] Add to the application the components of displaying records of found and lost animals;
+- [x] Configure the map marker, adding your design and default pop-up message positions;
 - [x] Obtain the latitudinal and longitudinal data of the point on the map that the user clicked on and use them as a basis for positioning the marker;
 - [x] Share positional data (latitude and longitude) between the map and the registration form;
 - [ ] Perform registration data insertion in the database;
@@ -65,6 +66,7 @@ In addition, of course, to a good code editor of your choice, although I strongl
 Well, having everything installed and ready, we can proceed:
 
 ### :octocat: Cloning the project
+
 ```bash
 # Clone the project repository
 $ git clone <https://github.com/ThiagoBrito-Dev/Project_Rescue>
@@ -106,6 +108,9 @@ $ yarn start
 <hr />
 
 ### 🔮 Applied Technologies
+
+- [HTML](https://devdocs.io/html/)
+- [CSS](https://devdocs.io/css/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [ReactJS](https://pt-br.reactjs.org/)
 - [Leaflet](https://leafletjs.com/)
