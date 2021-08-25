@@ -33,6 +33,7 @@ Possuindo como foco principal a luta pela redução do número de animais abando
 <hr />
 
 ### 🏁 Status do Projeto
+
 <h3 align="center">
 	🚧 Project Rescue 🕹️  Em construção...  🚧
 </h3>
@@ -41,13 +42,13 @@ Possuindo como foco principal a luta pela redução do número de animais abando
 
 ### 🏆 Features
 
-- [X] Criar os estilos globais da aplicação;
-- [X] Implementar o componente da barra de navegação superior;
-- [X] Adicionar o componente da barra de navegação lateral;
-- [X] Implementar o componente do mapa;
-- [X] Adicionar o componente do formulário de cadastro de registros;
-- [X] Acrescer à aplicação os componentes de exibição de registros de animais encontrados e perdidos;
-- [X] Configurar o marcador do mapa, adicionando o seu design e posições padrão das mensagens de pop-up;
+- [x] Criar os estilos globais da aplicação;
+- [x] Implementar o componente da barra de navegação superior;
+- [x] Adicionar o componente da barra de navegação lateral;
+- [x] Implementar o componente do mapa;
+- [x] Adicionar o componente do formulário de cadastro de registros;
+- [x] Acrescer à aplicação os componentes de exibição de registros de animais encontrados e perdidos;
+- [x] Configurar o marcador do mapa, adicionando o seu design e posições padrão das mensagens de pop-up;
 - [x] Obter os dados latitudinais e longitudinais do ponto do mapa em que o usuário clicou e utilizá-los como base para o posicionamento do marcador;
 - [x] Realizar o compartilhamento dos dados posicionais (latitude e longitude) entre o mapa e o formulário de cadastro de registros;
 - [ ] Realizar a inserção dos dados de registro no banco de dados;
@@ -58,13 +59,14 @@ Possuindo como foco principal a luta pela redução do número de animais abando
 
 ### ✅ Pré-requisitos
 
-Hey Dev, antes de começar você precisará realizar a instalação de duas ferramentas, o [GIT](https://git-scm.com) e o [Node.js](https://nodejs.org/en/). 
+Hey Dev, antes de começar você precisará realizar a instalação de duas ferramentas, o [GIT](https://git-scm.com) e o [Node.js](https://nodejs.org/en/).
 
 Além, é claro, de um bom editor de código à sua escolha, muito embora eu recomende fortemente o [VSCode](https://code.visualstudio.com/).
 
 Bom, tendo tudo instalado e pronto, podemos dar sequência:
 
 ### :octocat: Clonando o projeto
+
 ```bash
 # Clone o repositório do projeto
 $ git clone <https://github.com/ThiagoBrito-Dev/Project_Rescue>
@@ -106,6 +108,9 @@ $ yarn start
 <hr />
 
 ### 🔮 Tecnologias utilizadas
+
+- [HTML](https://devdocs.io/html/)
+- [CSS](https://devdocs.io/css/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [ReactJS](https://pt-br.reactjs.org/)
 - [Leaflet](https://leafletjs.com/)
